@@ -1,13 +1,6 @@
 # Contributing to Interview Questions Solved
 
-Hello and thank you for considering a contribution to **Interview Questions Solved**! Whether you're here to suggest a solution, fix an error, or add test cases, your assistance is valued and appreciated.
-
-## Table of Contents
-
-1. [Getting Started](#getting-started)
-2. [Contribution Guidelines](#contribution-guidelines)
-3. [Pull Request Process](#pull-request-process)
-4. [Feedback & Questions](#feedback--questions)
+Hello, and thank you for considering a contribution to **Interview Questions Solved**! Whether you're here to suggest a solution, fix an error, or add test cases, your assistance is valued and appreciated.
 
 ## Getting Started
 
@@ -23,7 +16,7 @@ Hello and thank you for considering a contribution to **Interview Questions Solv
 
 ## Contribution Guidelines
 
-1. **Choosing a Problem**: It's always a good idea to start with an open issue. If you have a new problem in mind that isn't listed, open a new issue for discussion.
+1. **Choosing a Problem**: It's always a good idea to start with an open issue. If you have a new problem in mind that isn't listed, [open a new issue](https://github.com/aditya-xq/interview-questions-solved/issues) for discussion and tag it under the "question" label. Make sure to provide the exact question and the source of the same.
 2. **Solution Structure**: Ensure your solution follows the structure outlined in the main README. This includes a detailed README for each solution, production-ready code, test cases, and a live demo link or instructions.
 3. **Coding Style**: Maintain a consistent coding style. Include inline comments explaining your logic, especially in complex sections.
 4. **Testing**: Before submitting your solution, test your code against various scenarios to ensure its robustness.
@@ -42,7 +35,7 @@ Hello and thank you for considering a contribution to **Interview Questions Solv
 
 ## Feedback & Questions
 
-If you're unsure about anything, feel free to ask. Open an issue or reach out to one of the maintainers. We value all contributors, regardless of their experience level.
+If you're unsure about anything, feel free to ask. Open an [issue](https://github.com/aditya-xq/interview-questions-solved/issues) or reach out to one of the maintainers. We value all contributors, regardless of their experience level.
 
 ---
 
