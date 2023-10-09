@@ -46,7 +46,7 @@ A big shoutout to all our contributors who have made this repository a hub for i
 
 ## 💌 Feedback
 
-Loved it? Hated it? Feel there's room for improvement? Feel free to open an issue. Your feedback is the compass guiding this ship!
+Loved it? Hated it? Feel there's room for improvement? Feel free to open an [issue](https://github.com/aditya-xq/interview-questions-solved/issues). Your feedback is the compass guiding this ship!
 
 ---
 
