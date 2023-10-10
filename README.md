@@ -42,7 +42,7 @@ The repo is organized by programming languages/frameworks. Dive into any languag
 
 ## 🌟 Contributors
 
-A big shoutout to all our contributors who have made this repository a hub for interview preparation. Interested in contributing? Check our [CONTRIBUTING.md](./contributing.md) guide.
+A big shoutout to all our contributors who have made this repository a hub for interview preparation. Interested in contributing? Check our [contributing.md](./contributing.md) guide.
 
 ## 💌 Feedback
 
